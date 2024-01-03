@@ -1,0 +1,6 @@
+".\Objects\main.obj",
+".\Objects\motor.obj",
+".\Objects\car.obj",
+".\Objects\xunji.obj" 
+TO ".\Objects\project" 
+PRINT(".\Listings\project.m51") RAMSIZE(256) 
